@@ -1,6 +1,5 @@
 # Hi there 👋
 
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ### 📊 GitHub Stats:
 
@@ -35,11 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/ecx567/ecx567/output/snake.svg" alt="Snake animation" />
-
-###
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/ecx567/count.svg?"  />
