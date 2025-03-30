@@ -40,7 +40,5 @@
   <img src="https://profile-counter.glitch.me/ecx567/count.svg?"  />
 </div>
 
-###watch snake
 
-![snake gif](https://github.com/ecx567/ecx567/blob/output/github-contribution-grid-snake.svg)
 
