@@ -14,7 +14,9 @@ on:
       - main
 
 permissions:
-  contents: write  # Asegurar permisos para modificar el repositorio
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   generate:
@@ -55,4 +57,3 @@ jobs:
           publish_dir: ./dist
           publish_branch: output
           commit_message: "Update snake animation [skip ci]"
-
